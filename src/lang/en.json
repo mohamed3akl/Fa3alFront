@@ -1,0 +1,9 @@
+{
+  "Home": "Home",
+  "welcome_message": "Welcome to Your Vue.js App",
+  "popular_links": "Popular Links",
+  "ecosystem": "Ecosystem",
+  "pages": {
+    "about": "About Page"
+  }
+}
